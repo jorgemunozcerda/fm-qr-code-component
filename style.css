@@ -41,6 +41,7 @@ body {
     font-size: 22px;
     font-weight: 700;
     line-height: 30px;
+    color: var(--dark-blue);
 }
 
 #subtitle p {
