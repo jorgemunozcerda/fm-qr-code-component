@@ -24,7 +24,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - [Frontend Mentio Solution Page](https://www.frontendmentor.io/solutions/qr-code-component-used-html-and-css-VIBwLe9Ec)
-- [Github Pages Live Demo](https://jorgemunozcerda.github.io/qr-code-component/)
+- [Github Pages Live Demo](https://jorgemunozcerda.github.io/fm-qr-code-component/)
 
 ## My process
 
